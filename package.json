@@ -1,0 +1,43 @@
+{
+  "_from": "weidate",
+  "_id": "weidate@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-TjQeGvmjGKKWCp7Dmg2ZJHCBEX/5gUMS3EK+JHHGA3L94SzO8u8x4GKqiXFti1TjVTiKVrTMrZsSPpCcDBCMqg==",
+  "_location": "/weidate",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "weidate",
+    "name": "weidate",
+    "escapedName": "weidate",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/weidate/-/weidate-1.0.2.tgz",
+  "_shasum": "1dbbc3fef612c7f7b5040abf56a37b3e7d1048dc",
+  "_spec": "weidate",
+  "_where": "E:\\company",
+  "author": {
+    "name": "weishan"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "```bash\r npm i weidate\r ```",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "weidate",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weishell/weidate.git"
+  }
+}
